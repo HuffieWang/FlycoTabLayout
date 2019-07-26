@@ -113,3 +113,4 @@ dependencies {
 //        publish = true
 //    }
 //}
+apply from: 'https://raw.githubusercontent.com/relish-wang/script/master/push_to_jcenter.gradle'

@@ -34,6 +34,8 @@ allprojects {
 ```
 这样你就完成了对FlycoTabLayout_Lib的AndroidX改造。
 
+以下是原文档的使用说明, enjoy it!
+----------------------------
 
 一个Android TabLayout库,目前有3个TabLayout
 
